@@ -8,5 +8,6 @@ As the snippet is configured now, it will remove the *Scripts* and *SEO settings
 # Third Party SEO Plugins
 If you are using a third party SEO Plugin such as WordPress SEO by Yoast, All-in-One SEO pack etc - these meta boxes may already be removed. 
 
-## Todo
-- Test to see if this snippet conflicts with WordPress SEO meta box settings (Unlikely)
+### Todo
+
+- [ ] Test to see if this snippet conflicts with WordPress SEO meta box settings (Unlikely)
