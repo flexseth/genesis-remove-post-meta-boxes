@@ -1,7 +1,6 @@
-<?php /*
-Add to functions.php in your child theme
-*/
-
+<?php 
+// Do not include opening php tag
+// Add to functions.php in your child theme
 
 /* Declutter UI: Remove scripts section from post editor */
 add_action( 'admin_menu' , 'remove_genesis_post_scripts_box' );
